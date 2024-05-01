@@ -12,3 +12,5 @@ and it  stores the tickets a database.
 The application can add tickets to the database and delete tickets from the database.
 Front-end is HTML, javascript and CSS while backend is Java and H2 database.
 Webserver is powered by Spring boot.
+
+Youtube link: https://youtu.be/YT5ajt9SDXs
